@@ -19,6 +19,14 @@ body{
 
 }
 
+.SearchButton {
+  background: navy;
+  color: white;
+  font-size: 12px;
+  border: 1px solid grey;
+    cursor: pointer;
+}
+
 
 
 
